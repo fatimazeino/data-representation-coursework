@@ -1,0 +1,31 @@
+# library.xml
+# This an XML file that stores data for a library. 
+# Author: Fatima Zeino
+
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+<catalogues category="technical books"> 
+<book>
+<ISBN></ISBN>
+<title></title>
+<author></author>
+</book>
+<book>
+<ISBN></ISBN>
+<title></title>
+<author></author>
+</book>
+</catalogues>
+<catalogues category="cookery books">
+<book>
+<ISBN></ISBN>
+<title></title>
+<author></author>
+</book>
+<book>
+<ISBN></ISBN>
+<title></title>
+<author></author>
+</book>
+</catalogues>
+</library>
